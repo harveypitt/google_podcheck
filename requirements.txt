@@ -1,0 +1,6 @@
+fastapi==0.110.0
+uvicorn==0.28.1
+google-cloud-aiplatform==1.47.0
+youtube-transcript-api==0.6.2
+python-dotenv
+python-multipart==0.0.9
